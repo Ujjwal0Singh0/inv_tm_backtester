@@ -1,0 +1,2 @@
+1. If data needs to be fetched the first run "fetch.py" with input variable as address for weights.csv.
+2. If fetched data here then directly run the backtester. Else if you have the data the run "split_ohlcv.py" before running the backtester.
